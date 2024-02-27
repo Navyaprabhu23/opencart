@@ -1,0 +1,53 @@
+12:54:29.691 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+12:54:31.018 [main] INFO  testCases.Tc_001_AccountRegistration - cliked on registration link
+12:54:31.019 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+12:54:31.275 [main] INFO  testCases.Tc_001_AccountRegistration - confiraming password
+12:54:31.363 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+12:54:32.266 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+14:15:24.451 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+14:15:24.540 [main] ERROR testCases.Tc_001_AccountRegistration - test failed
+14:15:24.540 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+14:15:26.552 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+14:15:26.629 [main] ERROR testCases.Tc_001_AccountRegistration - test failed
+14:15:26.630 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+14:16:22.422 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+14:16:23.071 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+14:16:23.071 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+14:16:23.322 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+14:16:23.437 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+14:16:24.304 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+14:20:37.796 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+14:20:37.804 [main] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+14:20:39.265 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+14:20:39.265 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+14:20:39.529 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+14:20:39.602 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+14:20:40.768 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+15:13:20.615 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+15:13:20.624 [main] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+15:13:22.037 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+15:13:22.037 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+15:13:22.330 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+15:13:22.443 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+15:13:23.285 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+15:13:54.424 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+15:13:54.437 [main] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+15:13:55.839 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+15:13:55.840 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+15:13:56.168 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+15:13:56.260 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+15:13:57.155 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+15:17:36.146 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+15:17:36.154 [TestNG-tests-1] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+15:17:36.817 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+15:17:36.817 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+15:17:37.170 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistration - confirming password
+15:17:37.261 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistration - confirming message
+15:17:37.782 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+15:17:37.782 [TestNG-tests-2] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+15:17:38.135 [TestNG-tests-1] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+15:17:39.182 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+15:17:39.183 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+15:17:39.472 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistration - confirming password
+15:17:39.550 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistration - confirming message
+15:17:40.465 [TestNG-tests-2] INFO  testCases.Tc_001_AccountRegistration - logging of from page

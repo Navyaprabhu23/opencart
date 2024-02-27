@@ -1,0 +1,30 @@
+00:10:11.562 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+00:10:11.586 [main] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+00:10:12.992 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+00:10:12.993 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+00:10:13.291 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+00:10:13.372 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+00:10:14.266 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+00:10:49.605 [main] INFO  testCases.Tc_002_loginPage - this will verify
+00:10:49.612 [main] DEBUG testCases.Tc_002_loginPage - this will goging to debug
+00:10:49.640 [main] INFO  testCases.Tc_002_loginPage - we clicked on my login link
+11:46:49.068 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+11:46:49.072 [main] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+11:46:50.499 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+11:46:50.500 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+11:46:50.757 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+11:46:50.828 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+11:46:51.773 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+11:46:55.436 [main] INFO  testCases.Tc_002_loginPage - this will verify
+11:46:55.437 [main] DEBUG testCases.Tc_002_loginPage - this will goging to debug
+11:46:55.437 [main] INFO  testCases.Tc_002_loginPage - we clicked on my login link
+12:49:10.863 [main] INFO  testCases.Tc_001_AccountRegistration - **** starting Tc_001_AccountRegistration ****
+12:49:10.867 [main] DEBUG testCases.Tc_001_AccountRegistration - application logs..
+12:49:12.435 [main] INFO  testCases.Tc_001_AccountRegistration - clikced on registration link
+12:49:12.435 [main] INFO  testCases.Tc_001_AccountRegistration - providing customer information
+12:49:12.665 [main] INFO  testCases.Tc_001_AccountRegistration - confirming password
+12:49:12.727 [main] INFO  testCases.Tc_001_AccountRegistration - confirming message
+12:49:13.921 [main] INFO  testCases.Tc_001_AccountRegistration - logging of from page
+12:49:18.591 [main] INFO  testCases.Tc_002_loginPage - this will verify
+12:49:18.591 [main] DEBUG testCases.Tc_002_loginPage - this will goging to debug
+12:49:18.592 [main] INFO  testCases.Tc_002_loginPage - we clicked on my login link
